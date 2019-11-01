@@ -1,0 +1,4 @@
+Network Connect (NCHU VPN)
+
+ID: hit@wifi.nchu.edu.tw
+PW: hit12nchu34
